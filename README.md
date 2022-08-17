@@ -1,6 +1,6 @@
 # Список и детали
 
-### Server: <a href="">Heroku</a>
+### Server: <a href="https://ra-12-2-redux-obs-main-details.herokuapp.com/">Heroku</a>
 
 Напишите проект, использующий React Router и Redux Observable, который удовлетворяет следующим условиям:
 
